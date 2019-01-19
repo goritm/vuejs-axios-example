@@ -1,6 +1,6 @@
-# my-project
+# Proyecto API + Vue.js + Axios
 
-> A Vue.js project
+> Proyecto para consumir la API de Studio Ghibli utilizando Vue.js y la librería Axios. 
 
 ## Build Setup
 
